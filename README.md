@@ -39,7 +39,7 @@ VDMMBESP/
 │   └── 📖 README.md               # Usage instructions for the helper script
 └── 📂 release/                    # Packaged installer
 │   └── 📦 VDMMBESP.mlappinstall   # MATLAB App installer
-└── 📂 verification/                    # Packaged installer
+└── 📂 verification/               
     └── 🧮 calcSquarePitFC         # Verification and comparison script
     └── 📖 README.md               # Usage instructions for the helper script
 ```
