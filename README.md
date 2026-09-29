@@ -38,7 +38,10 @@ VDMMBESP/
 │   ├── 🧮 predict_with_saved_model.m
 │   └── 📖 README.md               # Usage instructions for the helper script
 └── 📂 release/                    # Packaged installer
-    └── 📦 VDMMBESP.mlappinstall   # MATLAB App installer
+│   └── 📦 VDMMBESP.mlappinstall   # MATLAB App installer
+└── 📂 verification/                    # Packaged installer
+    └── 🧮 calcSquarePitFC         # Verification and comparison script
+    └── 📖 README.md               # Usage instructions for the helper script
 ```
 
 
